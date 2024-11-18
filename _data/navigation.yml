@@ -1,0 +1,13 @@
+main:
+  - title: "Về tôi"
+    url: /about
+  - title: "Sản phẩm"
+    sublinks:
+      - title: Các khoá học
+        url: /courses/
+      - title: Hệ thống thực hành
+        url: /aws-hand-on-labs/
+      - title: Đọc sách trên mây
+        url: /x-plat-book-reader/
+  - title: "Kiến thức"
+    url: /knowledge
